@@ -11,6 +11,10 @@ dependencies:
 
   scoped_model: ^2.0.0-nullsafety.0
   cupertino_icons: ^1.0.3
+  geolocator: ^9.0.2
+  geocoding: ^2.0.5
+  flutter_sms: ^2.3.3
+  shared_preferences: ^2.0.15
 
 dev_dependencies:
   flutter_test:
